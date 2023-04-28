@@ -67,7 +67,11 @@ After each encoding copy the encoded key and paste it into the .env file respect
 
 #### connect to redis
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k578ej9fvbf40939yhkg.png)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lykgoix2fsrzassb5k7q.png)
+
+
 
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p6liy5ffmws0ggdhh1r.png)
