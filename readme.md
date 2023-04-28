@@ -133,3 +133,11 @@ Response
 ##### Get all users
 > localhost:8000/api/users
 Bearer Token
+
+Response
+```json
+{
+    "status": "fail",
+    "message": "You are not allowed to perform this action"
+}
+```
